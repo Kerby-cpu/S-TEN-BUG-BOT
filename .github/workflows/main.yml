@@ -1,0 +1,30 @@
+atp update
+   
+
+apt upgrade
+
+pkg update && pkg upgrade
+
+pkg install bash
+
+ pkg install git
+
+ pkg install nodejs
+
+pkg install ffmpeg
+
+pkg install wget
+
+pkg install imagemagick
+
+ pkg install yarn
+
+termux-setup-storage
+
+git clone https://github.com/Bot-hostin/S-TEN-BUG-BOT
+
+ cd S-TEN-BUG-BOT
+ 
+ yarn install
+ 
+ npm start￼Enter
